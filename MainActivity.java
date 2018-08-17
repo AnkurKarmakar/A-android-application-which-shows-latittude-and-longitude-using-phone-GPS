@@ -1,4 +1,4 @@
-package com.example.nitish.lsgpsdemo;
+package com.example.ankur.lsgpsdemo;
 
 import android.Manifest;
 import android.location.Location;
