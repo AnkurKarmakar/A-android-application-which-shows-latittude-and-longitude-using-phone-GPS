@@ -1,4 +1,4 @@
-package com.example.nitish.lsgpsdemo;
+package com.example.ankur.lsgpsdemo;
 
 import android.Manifest;
 import android.content.Context;
@@ -11,7 +11,7 @@ import android.support.v4.content.ContextCompat;
 import android.widget.Toast;
 
 /**
- * Created by NITISH on 19-12-2017.
+ * Created by ANKUR on 19-12-2017.
  */
 
 public class GPSHelper implements LocationListener {
